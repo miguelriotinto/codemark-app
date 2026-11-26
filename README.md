@@ -14,8 +14,9 @@ No release yet. When one is published:
 Open the DMG and drag **Code[Mark]** to **Applications**. It is signed with
 Developer ID and notarized by Apple, so it opens without a Gatekeeper warning.
 
-Every release lists its version, build number and SHA-256. The iPhone and
-iPad apps are distributed through TestFlight and the App Store.
+Every release lists its version, build number and SHA-256. The Mac app is
+distributed only here. The iPhone and iPad apps come through TestFlight and the
+App Store.
 
 ## Source and issues
 
