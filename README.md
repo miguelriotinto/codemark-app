@@ -1,0 +1,23 @@
+<p align="center"><img src=".github/icon.png" width="128" alt="Code[Mark] icon"></p>
+
+# Code[Mark] for Mac
+
+Notarized downloads of **Code[Mark] for Mac** — open a Markdown file already
+formatted, edit it like a document, and save back to the same `.md` file
+without rewriting the parts you didn't touch.
+
+## Download
+
+No release yet. When one is published:
+**[Download the latest version](https://github.com/miguelriotinto/codemark-app/releases/latest)** — `CodeMark-<version>.dmg` under Assets
+
+Open the DMG and drag **Code[Mark]** to **Applications**. It is signed with
+Developer ID and notarized by Apple, so it opens without a Gatekeeper warning.
+
+Every release lists its version, build number and SHA-256. The iPhone and
+iPad apps are distributed through TestFlight and the App Store.
+
+## Source and issues
+
+Source lives in [miguelriotinto/CodeMark](https://github.com/miguelriotinto/CodeMark).
+This repository only hosts the Mac app's downloads.
